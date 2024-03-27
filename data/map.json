@@ -300,6 +300,10 @@
                              {
                                 "state_name": "4,0-d",
                                 "key_input" : 39
+                             },
+                             {
+                                "state_name": "4,1-c",
+                                "key_input" : 40
                              }
                             ]
         },
